@@ -1,18 +1,18 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true"  CodeFile="Default.aspx.vb" Inherits="_Default" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v14.1, Version=14.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.Web.ASPxScheduler" TagPrefix="dxwschs" %>
 
-<%@ Register Assembly="DevExpress.Xpo.v14.1.Web, Version=14.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Xpo.v13.1.Web, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.Xpo" TagPrefix="dxxpo" %>
 
-<%@ Register Assembly="DevExpress.XtraScheduler.v14.1.Core, Version=14.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.XtraScheduler.v13.1.Core, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.XtraScheduler" TagPrefix="cc2" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v14.1" Namespace="DevExpress.Web.ASPxScheduler"
+<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v13.1" Namespace="DevExpress.Web.ASPxScheduler"
 	TagPrefix="dxwschs" %>
 
-<%@ Register assembly="DevExpress.Xpo.v14.1" Namespace="DevExpress.Xpo" TagPrefix="dxxpo" %>
+<%@ Register assembly="DevExpress.Xpo.v13.1" Namespace="DevExpress.Xpo" TagPrefix="dxxpo" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
