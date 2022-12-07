@@ -1,8 +1,7 @@
 using System;
 using System.Collections;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxHiddenField;
+using DevExpress.Web;
 using DevExpress.Web.ASPxScheduler;
 using DevExpress.Web.ASPxScheduler.Internal;
 using DevExpress.XtraScheduler;

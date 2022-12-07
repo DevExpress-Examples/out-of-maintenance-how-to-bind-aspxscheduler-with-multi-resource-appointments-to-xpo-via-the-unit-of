@@ -2,8 +2,7 @@ Imports Microsoft.VisualBasic
 Imports System
 Imports System.Collections
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxHiddenField
+Imports DevExpress.Web
 Imports DevExpress.Web.ASPxScheduler
 Imports DevExpress.Web.ASPxScheduler.Internal
 Imports DevExpress.XtraScheduler
